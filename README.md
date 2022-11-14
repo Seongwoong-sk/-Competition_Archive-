@@ -1,4 +1,4 @@
-# 🚀 Competition_Archive 🚀
+# 🚀 Competition_Archive
 **Github** Collection of Competitions I participated in and studied
 
 
